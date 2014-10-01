@@ -2,5 +2,5 @@ hello-world
 ===========
 
 implement hello world
-fix issue
+fix the issue
 more edits
